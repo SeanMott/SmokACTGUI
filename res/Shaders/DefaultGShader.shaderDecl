@@ -1,0 +1,3 @@
+assetName: "DefaultGShader"
+vertexPath: "res/Shaders/Compiled/TextureMesh.vert.spv"
+fragmentPath: "res/Shaders/Compiled/TextureMesh.frag.spv"

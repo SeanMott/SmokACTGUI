@@ -1,0 +1,17 @@
+projectName: "Test"
+GShaders:
+  - assetName: "DefaultGShader"
+    sourceVertFilePath: "res/Shaders/Code/TextureMesh.vert.spv"
+    sourceFragFilePath: "res/Shaders/Code/TextureMesh.frag.spv"
+    compiledVertFilePath: "res/Shaders/Compiled/TextureMesh.vert.spv"
+    compiledFragFilePath: "res/Shaders/Compiled/TextureMesh.frag.spv"
+Textures:
+  - assetName: "BlankTexture"
+    declFilePath: "res/Textures/BirdsPlayingPoker.texdecl"
+Samplers:
+  - assetName: "BlankSampler"
+    declFilePath: "res/Textures/Default.sap2Ddecl"
+StaticMeshes:
+  - assetName: "Cube"
+    rawAssetPath: ""
+    declDataPath: "res/Meshes/Cube.smeshdecl"

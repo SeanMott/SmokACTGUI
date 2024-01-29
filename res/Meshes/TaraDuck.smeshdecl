@@ -1,0 +1,8 @@
+name: "TaraDuck"
+meshCount: 1
+meshes:
+  - vertexStartOffset: 0
+    vertexEndOffset: 1476
+    baseMeshScale: [1, 1, 1]
+vertexCount: 1476
+binaryDataPath: "res/Meshes/TaraDuck.smesh"

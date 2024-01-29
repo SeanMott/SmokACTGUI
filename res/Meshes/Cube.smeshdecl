@@ -1,0 +1,7 @@
+name: "Cube"
+meshCount: 1
+meshes:
+  - vertexStartOffset: 0
+    vertexEndOffset: 36
+vertexCount: 36
+binaryDataPath: "res\\Meshes\\Cube.smesh"

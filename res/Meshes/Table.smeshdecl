@@ -1,0 +1,8 @@
+name: "Table"
+meshCount: 1
+meshes:
+  - vertexStartOffset: 0
+    vertexEndOffset: 828
+    baseMeshScale: [1, 1, 1]
+vertexCount: 828
+binaryDataPath: "res/Meshes/Table.smesh"

@@ -1,0 +1,17 @@
+name: "Kirby"
+meshCount: 4
+meshes:
+  - vertexStartOffset: 0
+    vertexEndOffset: 2802
+    baseMeshScale: [1, 1, 1]
+  - vertexStartOffset: 2802
+    vertexEndOffset: 4098
+    baseMeshScale: [1, 1, 1]
+  - vertexStartOffset: 4098
+    vertexEndOffset: 6876
+    baseMeshScale: [1, 1, 1]
+  - vertexStartOffset: 6876
+    vertexEndOffset: 7110
+    baseMeshScale: [1, 1, 1]
+vertexCount: 7110
+binaryDataPath: "res/Meshes/Kirby.smesh"

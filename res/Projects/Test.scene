@@ -1,0 +1,28 @@
+sceneName: "Test"
+Entities:
+  - EntityInfoComp:
+      entityName: "Unit 1"
+    TransformComp:
+      position: [0, 4, 0]
+      rotation: [0, 0, 0]
+      scale: [1, 2, 1]
+    MeshComp:
+      isEnabled: true
+      staticMeshName: "Cube"
+      graphicsPipelineName: "DefaultGPipeline"
+      graphicsShaderName: "DefaultGShader"
+      textureName: "BlankTexture"
+      samplerName: "BlankSampler"
+  - EntityInfoComp:
+      entityName: "Floor"
+    TransformComp:
+      position: [0, -2, 0]
+      rotation: [0, 0, 0]
+      scale: [400, 1, 400]
+    MeshComp:
+      isEnabled: true
+      staticMeshName: "Cube"
+      graphicsPipelineName: "DefaultGPipeline"
+      graphicsShaderName: "DefaultGShader"
+      textureName: "BlankTexture"
+      samplerName: "BlankSampler"
